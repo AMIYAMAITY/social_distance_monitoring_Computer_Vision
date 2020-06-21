@@ -34,4 +34,8 @@ python3 social_distance_monitoring.py -i=/video_path/People-6387.mp4  -c=/yolov3
 ###### yolov3.weight : https://pjreddie.com/media/files/yolov3.weights
 ###### video: https://pixabay.com/videos/people-commerce-shop-busy-mall-6387/
 
+### What's Next
+
+Here i am calculating close distance by pixel value. You can set whatever pixel you want in line 18 variable name PIXEL_THRESH . But it's not the correct solution in the real scenario , we need to calculate it as real unit like cm,inch,feet like that.
+
 ##### Thank you :)
