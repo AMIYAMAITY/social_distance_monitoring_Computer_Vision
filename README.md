@@ -8,13 +8,13 @@ I made one ultra simple project or you can say this is my experiment. Basically 
 Here i have used darknet yolov3 pretrained weight and OpenCv. Yolo used for object detection in this case person detection and OpenCv used for drawing bounding boxes and calculating coordinate systems. This project basically returns three images one original drawn image frame, second bird-eye-view frame, third concat both image frames to make one image frame. I have attached all threes snapshot given below-
 
 #### First- ( Original drawn image frame ):
-link
+![alt text](https://github.com/AMIYAMAITY/social_distance_monitoring_Computer_Vision/blob/master/images/social_distance_monitoring_original_frame.gif "Original drawn image frame")
 
 #### Second- ( Bird-eye-view image frame ):
-link
+![alt text](https://github.com/AMIYAMAITY/social_distance_monitoring_Computer_Vision/blob/master/images/social_distance_monitoring_bird_eye_view.gif "Bird-eye-view image frame")
 
 #### Third- ( Concat of both images ):
-link
+![alt text](https://github.com/AMIYAMAITY/social_distance_monitoring_Computer_Vision/blob/master/images/social_distancing_monitoring_concat.gif "Concat of both images")
 
 #### How to run
 
